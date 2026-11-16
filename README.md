@@ -2,9 +2,7 @@
 
 > *"I am Groot. I am Groot! I AM GROOT? We are Groot."* — **Groot, Lead Language Architect**
 
-<img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/5aa5b56b-cddc-420e-873c-8ec124d4e89d" />
-
-<img width="1216" height="864" alt="Untitled" src="https://github.com/user-attachments/assets/3e13e4ee-c1ef-4e45-9d41-fe8b4bce64c3" />
+<img width="1216" height="864" alt="Untitled-1" src="https://github.com/user-attachments/assets/e20c38e9-0719-4748-a56d-9054745c8e62" />
 
 ## 🌳 Manifesto
 
