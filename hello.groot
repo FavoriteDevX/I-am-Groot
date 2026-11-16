@@ -1,0 +1,141 @@
+// GrootLang Demo: Prints "GROOT!" and runs a countdown loop from 5 to 1.
+
+// Print 'G' (ASCII 71)
+I am Groot!
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot.
+I am Groot+
+I AM GROOT.
+
+// Print 'R' (ASCII 82)
+I am Groot!
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot.
+I am Groot+
+I am Groot.
+I am Groot+
+I AM GROOT.
+
+// Print 'O' (ASCII 79) twice using DUP
+I am Groot!
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot.
+I am Groot-
+I am Groot...
+I AM GROOT.
+I AM GROOT.
+
+// Print 'T' (ASCII 84)
+I am Groot!
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot.
+I am Groot+
+I am Groot.
+I am Groot+
+I am Groot.
+I am Groot+
+I am Groot.
+I am Groot+
+I AM GROOT.
+
+// Print '!' (ASCII 33) and Newline (ASCII 10)
+I am Groot!
+I am Groot!
+I am Groot+
+I am Groot!
+I am Groot+
+I am Groot.
+I am Groot+
+I am Groot.
+I am Groot+
+I am Groot.
+I am Groot+
+I AM GROOT.
+
+I am Groot!
+I AM GROOT.
+
+// --- LOOP DEMO: Countdown from 5 to 1 ---
+// Push 5 onto stack
+I am Groot.
+I am Groot.
+I am Groot+
+I am Groot.
+I am Groot+
+I am Groot.
+I am Groot+
+I am Groot.
+I am Groot+
+
+// Start loop while top of stack != 0
+I AM GROOT?
+    I am Groot...
+    I am Groot!!
+    // Print space (ASCII 32)
+    I am Groot!
+    I am Groot!
+    I am Groot+
+    I am Groot!
+    I am Groot+
+    I am Groot.
+    I am Groot+
+    I am Groot.
+    I am Groot+
+    I AM GROOT.
+    // Subtract 1 from counter
+    I am Groot.
+    I am Groot-
+We are Groot.
+
+// End program
+WE ARE GROOT!
