@@ -4,6 +4,7 @@
 
 <img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/5aa5b56b-cddc-420e-873c-8ec124d4e89d" />
 
+<img width="1216" height="864" alt="Untitled" src="https://github.com/user-attachments/assets/3e13e4ee-c1ef-4e45-9d41-fe8b4bce64c3" />
 
 ## 🌳 Manifesto
 
